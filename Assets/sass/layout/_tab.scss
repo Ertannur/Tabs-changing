@@ -1,0 +1,29 @@
+
+body {
+    padding: 3rem;
+}
+
+.navbar {
+    background-color: #f1f1f1;
+    border: 1.5px solid lightgray;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+
+.contentArea {
+    border: 1.5px solid lightgray;
+    border-top: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    // align-items: center;
+    padding: 15px;
+
+}
+
+.tabHidden {
+    display: none;
+}
+
